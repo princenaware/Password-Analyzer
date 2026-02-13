@@ -115,15 +115,7 @@ Password-Analyzer/
 - [ ] Integration with popular password managers
 - [ ] Accessibility improvements (WCAG 2.1 compliance)
 
-## Usage Example
 
-```html
-<!-- Simple integration example -->
-<input type="password" id="passwordInput" placeholder="Enter your password">
-<div id="strengthIndicator"></div>
-```
-
-Simply open the HTML file and start using it immediately. No installation or setup required!
 
 ## Browser Compatibility
 
